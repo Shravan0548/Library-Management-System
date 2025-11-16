@@ -1,22 +1,22 @@
 # Library-Management-System
 
-Description
+<h2>Description</h2>
 A robust Library Management System built in Java with a graphical user interface using Swing. This project enables users to add, view, issue, and return books with real-time updates. Designed for efficient demonstration in interviews and educational presentations.
 
-Features
-Add New Books: Enter book title and author via dialog.
+<h2>Features</h2>
+<b>Add New Books:</b> Enter book title and author via dialog.
 
-Display All Books: View the complete list of books—status shown as "Issued" or "Available".
+<b>Display All Books:</b> View the complete list of books—status shown as "Issued" or "Available".
 
-Issue Book: Select and issue a book, updating its status.
+<b>Issue Book:</b> Select and issue a book, updating its status.
 
-Return Book: Easily return issued books and update inventory.
+<b>Return Book:</b> Easily return issued books and update inventory.
 
-Responsive GUI: User-friendly interface designed with Java Swing.
+<b>Responsive GUI:</b> User-friendly interface designed with Java Swing.
 
-Technologies Used
-Java SE 8+
+<h2>Technologies Used</h2>
+<ul>Java SE 8+</ul>
 
-Swing Framework for GUI
+<ul>Swing Framework for GUI</ul>
 
-Collections (ArrayList) for data storage
+<ul>Collections (ArrayList) for data storage</ul>
